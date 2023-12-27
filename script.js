@@ -42,22 +42,22 @@ document.addEventListener('keypress', function(event) {
     console.log(key);
     switch (key) {
         case 'f':
-            playMood("/vids/fire2.mp4");
+            playMood("vids/fire2.mp4");
             break;
         case 'r':
-            playMood("/vids/rain.mp4");
+            playMood("vids/rain.mp4");
             break;
         case 'j':
-            playMood("/vids/jungle2.mp4");
+            playMood("vids/jungle2.mp4");
             break;
         case 'p':
-            playMood("/vids/party2.mp4");
+            playMood("vids/party2.mp4");
             break;
         case 'b':
-            playMood("/vids/beach2.mp4");
+            playMood("vids/beach2.mp4");
             break;
         case 'c':
-            playMood("/vids/relax2.mp4");
+            playMood("vids/relax2.mp4");
             break;
         }
     });
