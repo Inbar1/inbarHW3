@@ -13,22 +13,22 @@ buttons[i].addEventListener('click', function(event) {
             // Use a switch statement to determine the mood that will play based on the button clicked
             switch (clickedButton.id) {
                 case 'fire':
-                    playMood("/vids/fire2.mp4");
+                    playMood("vids/fire2.mp4");
                     break;
                 case 'rain':
-                    playMood("/vids/rain.mp4");
+                    playMood("vids/rain.mp4");
                     break;
                 case 'jungle':
-                    playMood("/vids/jungle2.mp4");
+                    playMood("vids/jungle2.mp4");
                     break;
                 case 'party':
-                    playMood("/vids/party2.mp4");
+                    playMood("vids/party2.mp4");
                     break;
                 case 'beach':
-                    playMood("/vids/beach2.mp4");
+                    playMood("vids/beach2.mp4");
                     break;
                 case 'relax':
-                    playMood("/vids/relax2.mp4");
+                    playMood("vids/relax2.mp4");
                     break;
                 }
             
