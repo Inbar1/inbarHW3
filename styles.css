@@ -33,7 +33,7 @@ flex-direction: row;
 #pause{
     box-shadow: 0 4px 8px rgba(0, 0,0, 9);
     border-radius: 50%;
-    background-image: url("/imaged/pause.png");
+    background-image: url("imaged/pause.png");
     background-position-x: center;
     background-position-y: center;
     background-size: contain;
@@ -45,7 +45,7 @@ flex-direction: row;
 #mute{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 9);
     border-radius: 50%;
-    background-image: url("/imaged/unmute2.png");
+    background-image: url("imaged/unmute2.png");
     background-size: contain;
     background-size: 90%;
     background-position-x: center;
@@ -57,7 +57,7 @@ flex-direction: row;
 #end{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 9);
     border-radius: 50%;
-    background-image: url("/imaged/end.png");
+    background-image: url("imaged/end.png");
     background-position-x: center;
     background-position-y: center;
     background-size: contain;
@@ -106,7 +106,7 @@ button:hover {
     transform: scale(1.05); 
 }
 .rain{
-    background-image: url(/imaged/rain.jpg);
+    background-image: url("imaged/rain.jpg");
     background-size: cover;
     background-position-x: center;
     grid-row: 1;
@@ -116,14 +116,14 @@ button:hover {
 
 
 .campfire{
-    background-image: url(/imaged/campfire.jpg);
+    background-image: url(imaged/campfire.jpg);
     background-size: cover;
     background-position-x: center;
     grid-row: 1;
     grid-column: 2;
 }
 .forest{
-    background-image: url(/imaged/forest.jpg);
+    background-image: url(imaged/forest.jpg);
     background-size: cover;
     background-position-x: center;
     grid-row: 1;
