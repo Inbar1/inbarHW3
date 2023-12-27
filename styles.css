@@ -129,21 +129,21 @@ button:hover {
     grid-column: 3;
 }
 .beach{
-    background-image: url(/imaged/beach.jpg);
+    background-image: url(imaged/beach.jpg);
     background-size: cover;
     background-position-x: center;
     grid-row: 2;
     grid-column: 1;
 }
 .relax{
-    background-image: url(/imaged/relax.png);
+    background-image: url(imaged/relax.png);
     background-size: cover;
     background-position-x: center;
     grid-row: 2;
     grid-column: 2;
 }
 .party{
-    background-image: url(/imaged/party.jpg);
+    background-image: url(imaged/party.jpg);
     background-size: cover;
     background-position-x: center;
     grid-row: 2;
